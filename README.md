@@ -176,9 +176,3 @@ Key API surface:
 ## MVP Scope
 
 See [MVP_SCOPE.md](./MVP_SCOPE.md) for a detailed breakdown of what is and is not in scope for the MVP.
-
----
-
-## Contributing
-
-See [CONTRIBUTING.md](./CONTRIBUTING.md). The architecture decision log lives in `docs/adr/`.
